@@ -9,3 +9,5 @@ window.geometry("400x200")
 
 window.mainloop()
 
+print("ini jam")
+print("ini adalah cara kita untuk main ayam")
