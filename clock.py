@@ -11,3 +11,4 @@ window.mainloop()
 
 print("ini jam")
 print("ini adalah cara kita untuk main ayam")
+print("studid ass motherfucerk")
